@@ -1,0 +1,25 @@
+p{
+	display: inline;
+	line-height: 2em;
+	margin:0 0 20px;
+	text-align: center;
+	font-size: 30px !important;
+}
+
+.typed {
+	display: inline;
+	font-size: 30px !important;f
+}
+
+.wrap{
+	max-width: 600px;
+	margin:150px auto;
+}
+
+.type-wrap{
+	margin:10px auto;
+	padding:20px;
+	background:#f0f0f0;
+	border-radius:5px;
+	border:#CCC 1px solid;
+}
